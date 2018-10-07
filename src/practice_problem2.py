@@ -30,7 +30,7 @@ import simple_testing as st
 
 def main():
     """ Calls the   TEST   functions in this module. """
-    # run_test_practice_problem2a()
+    run_test_practice_problem2a()
     run_test_practice_problem2b()
 
 
